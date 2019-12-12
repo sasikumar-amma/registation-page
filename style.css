@@ -1,0 +1,31 @@
+#menu{
+    background: rebeccapurple;
+    color: white;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin: 20px;
+}
+
+ol, ul, dl {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+body {
+
+    background:lightgray;
+}
+h2{
+    text-align: center;
+ }
+#section2{
+    background: lightgray;
+}
+#section3{
+    background: lightgray;
+}
